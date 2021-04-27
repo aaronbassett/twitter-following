@@ -1,0 +1,5 @@
+arrow==1.0.3
+click==7.1.2
+rich==10.1.0
+tinydb==4.4.0
+tweepy==3.10.0
